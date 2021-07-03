@@ -1,4 +1,4 @@
-const gatos = [
+{ "pets": [
     {
         "id": 1,
         "name":"Domingo",
@@ -34,6 +34,4 @@ const gatos = [
         "name":"Sábado",
         "image":"https://i.pinimg.com/originals/ee/b1/64/eeb16459dd6455c5582c7567bea47f78.jpg"
     }
-]
-
-export default gatos;
+]}
