@@ -2,59 +2,387 @@
     "pets": [
         {
             "id": 1,
-            "name": "pudim",
+            "name": "aladdin",
             "gender": "macho",
             "age": "adulto",
             "species": "gato",
-            "image": "https://pics.me.me/gatos-no-face-e-domingo-que-um-feliz-dia-te-17669108.png"
+            "image": "./image/gatos/aladdin.jpg"
         },
         {
             "id": 2,
+            "name": "amora",
+            "gender": "fêmea",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/amora.jpg"
+        },
+        {
+            "id": 3,
+            "name": "bolinha",
+            "gender": "macho",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/bolinha.jpg"
+        },
+        {
+            "id": 4,
+            "name": "bowie",
+            "gender": "macho",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/bowie.jpg"
+        },
+        {
+            "id": 5,
+            "name": "cacau",
+            "gender": "fêmea",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/cacau.jpg"
+        },
+        {
+            "id": 6,
+            "name": "caju",
+            "gender": "macho",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/caju.jpg"
+        },
+        {
+            "id": 7,
+            "name": "camudongo russo",
+            "gender": "macho",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/camudongoRusso.jpg"
+        },
+        {
+            "id": 8,
+            "name": "carol",
+            "gender": "fêmea",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/carol.jpg"
+        },
+        {
+            "id": 9,
+            "name": "chernobinha",
+            "gender": "fêmea",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/chernobinha.jpg"
+        },
+        {
+            "id": 10,
+            "name": "chernobinho",
+            "gender": "macho",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/chernobinho.jpg"
+        },
+        {
+            "id": 11,
+            "name": "davizinha",
+            "gender": "fêmea",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/davizinha.jpg"
+        },
+        {
+            "id": 12,
+            "name": "dino",
+            "gender": "macho",
+            "age": "filhote",
+            "species": "gato",
+            "image": "./image/gatos/dino.jpg"
+        },
+        {
+            "id": 13,
+            "name": "felicia",
+            "gender": "fêmea",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/felicia.jpg"
+        },
+        {
+            "id": 14,
+            "name": "felicinha",
+            "gender": "fêmea",
+            "age": "filhote",
+            "species": "gato",
+            "image": "./image/gatos/felicinha.jpg"
+        },
+        {
+            "id": 15,
+            "name": "floquinho",
+            "gender": "macho",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/floquinho.jpg"
+        },
+        {
+            "id": 16,
+            "name": "flora",
+            "gender": "fêmea",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/flora.jpg"
+        },
+        {
+            "id": 17,
+            "name": "gigi",
+            "gender": "fêmea",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/gigi.jpg"
+        },
+        {
+            "id": 18,
+            "name": "gordinho",
+            "gender": "macho",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/gordinho.jpg"
+        },
+        {
+            "id": 19,
+            "name": "hermes",
+            "gender": "macho",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/hermes.jpg"
+        },
+        {
+            "id": 20,
+            "name": "jose",
+            "gender": "macho",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/jose.jpg"
+        },
+        {
+            "id": 21,
+            "name": "lelinho",
+            "gender": "macho",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/lelinho.jpg"
+        },
+        {
+            "id": 22,
+            "name": "leo",
+            "gender": "macho",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/leo.jpg"
+        },
+        {
+            "id": 23,
+            "name": "lili",
+            "gender": "fêmea",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/lili.jpg"
+        },
+        {
+            "id": 24,
+            "name": "loki",
+            "gender": "macho",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/loki.jpg"
+        },
+        {
+            "id": 25,
+            "name": "lua",
+            "gender": "fêmea",
+            "age": "filhote",
+            "species": "gato",
+            "image": "./image/gatos/lua.jpg"
+        },
+        {
+            "id": 26,
+            "name": "marshmallow",
+            "gender": "macho",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/marshmallow.jpg"
+        },
+        {
+            "id": 27,
+            "name": "mary hellen",
+            "gender": "fêmea",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/maryHellen.jpg"
+        },
+        {
+            "id": 28,
+            "name": "maya",
+            "gender": "fêmea",
+            "age": "filhote",
+            "species": "gato",
+            "image": "./image/gatos/maya.jpg"
+        },
+        {
+            "id": 29,
+            "name": "mel",
+            "gender": "fêmea",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/mel.jpg"
+        },
+        {
+            "id": 30,
             "name": "paçoca",
             "gender": "macho",
             "age": "adulto",
             "species": "gato",
-            "image": "https://i.pinimg.com/originals/8d/6d/f4/8d6df4dbecffd510b413f477874f6569.jpg"
+            "image": "./image/gatos/pacoca.jpg"
         },
         {
-            "id": 3,
-            "name": "Terça-Feira",
+            "id": 31,
+            "name": "pudim",
+            "gender": "macho",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/gatos/pudim.jpg"
+        },
+        {
+            "id": 32,
+            "name": "sol",
             "gender": "fêmea",
             "age": "filhote",
             "species": "gato",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2W5ogC6NlDJYCX41sr-2Cl29BaehIwCGigw&usqp=CAU"
+            "image": "./image/gatos/sol.jpg"
         },
         {
-            "id": 4,
-            "name": "Quarta-Feira",
+            "id": 33,
+            "name": "bicudo",
+            "gender": "macho",
+            "age": "filhote",
+            "species": "cachorro",
+            "image": "./image/cachorros/bicudo.jpg"
+        },
+        {
+            "id": 34,
+            "name": "bilu",
+            "gender": "macho",
+            "age": "filhote",
+            "species": "cachorro",
+            "image": "./image/cachorros/bilu.jpg"
+        },
+        {
+            "id": 35,
+            "name": "chocolate",
+            "gender": "macho",
+            "age": "filhote",
+            "species": "cachorro",
+            "image": "./image/cachorros/chocolate.jpg"
+        },
+        {
+            "id": 36,
+            "name": "duque",
+            "gender": "macho",
+            "age": "filhote",
+            "species": "cachorro",
+            "image": "./image/cachorros/duque.jpg"
+        },
+        {
+            "id": 37,
+            "name": "lara",
+            "gender": "fêmea",
+            "age": "filhote",
+            "species": "cachorro",
+            "image": "./image/cachorros/lara.jpg"
+        },
+        {
+            "id": 38,
+            "name": "luna",
+            "gender": "fêmea",
+            "age": "adulto",
+            "species": "cachorro",
+            "image": "./image/cachorros/luna.jpg"
+        },
+        {
+            "id": 39,
+            "name": "mel",
+            "gender": "fêmea",
+            "age": "adulto",
+            "species": "cachorro",
+            "image": "./image/cachorros/mel.jpg"
+        },
+        {
+            "id": 40,
+            "name": "melissa",
+            "gender": "fêmea",
+            "age": "filhote",
+            "species": "cachorro",
+            "image": "./image/cachorros/melissa.jpg"
+        },
+        {
+            "id": 41,
+            "name": "mia",
+            "gender": "fêmea",
+            "age": "adulto",
+            "species": "cachorro",
+            "image": "./image/cachorros/mia.jpg"
+        },
+        {
+            "id": 42,
+            "name": "nina",
+            "gender": "fêmea",
+            "age": "filhote",
+            "species": "cachorro",
+            "image": "./image/cachorros/nina.jpg"
+        },
+        {
+            "id": 43,
+            "name": "pipoca",
             "gender": "macho",
             "age": "adulto",
             "species": "cachorro",
-            "image": "https://i.pinimg.com/originals/4c/d2/2f/4cd22f8b34d51c5864398ac49c5b1bd2.jpg"
+            "image": "./image/cachorros/pipoca.jpg"
         },
         {
-            "id": 5,
-            "name": "Quarta-Feira",
+            "id": 44,
+            "name": "sol",
+            "gender": "fêmea",
+            "age": "filhote",
+            "species": "cachorro",
+            "image": "./image/cachorros/sol.jpg"
+        },
+        {
+            "id": 45,
+            "name": "theo",
+            "gender": "macho",
+            "age": "filhote",
+            "species": "cachorro",
+            "image": "./image/cachorros/theo.jpg"
+        },
+        {
+            "id": 46,
+            "name": "tody",
+            "gender": "macho",
+            "age": "filhote",
+            "species": "cachorro",
+            "image": "./image/cachorros/tody.jpg"
+        },
+        {
+            "id": 47,
+            "name": "toto",
+            "gender": "macho",
+            "age": "filhote",
+            "species": "cachorro",
+            "image": "./image/cachorros/toto.jpg"
+        },
+        {
+            "id": 48,
+            "name": "rex",
             "gender": "macho",
             "age": "adulto",
             "species": "cachorro",
-            "image": "https://i.pinimg.com/originals/4c/d2/2f/4cd22f8b34d51c5864398ac49c5b1bd2.jpg"
-        },
-        {
-            "id": 6,
-            "name": "Quarta-Feira",
-            "gender": "macho",
-            "age": "adulto",
-            "species": "cachorro",
-            "image": "https://i.pinimg.com/originals/4c/d2/2f/4cd22f8b34d51c5864398ac49c5b1bd2.jpg"
-        },
-        {
-            "id": 7,
-            "name": "Quarta-Feira",
-            "gender": "macho",
-            "age": "adulto",
-            "species": "cachorro",
-            "image": "https://i.pinimg.com/originals/4c/d2/2f/4cd22f8b34d51c5864398ac49c5b1bd2.jpg"
+            "image": "./image/cachorros/rex.jpg"
         }
     ]
 }
