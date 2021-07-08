@@ -2,195 +2,243 @@
     "pets": [
         {
             "id": 1,
-            "name": "aladdin",
-            "gender": "macho",
-            "age": "adulto",
-            "species": "gato",
-            "image": "./image/gatos/aladdin.jpg"
-        },
-        {
-            "id": 2,
             "name": "amora",
             "gender": "fêmea",
             "age": "adulto",
             "species": "gato",
-            "image": "./image/gatos/amora.jpg"
+            "image": "./image/cat/amora.jpg"
         },
         {
-            "id": 3,
-            "name": "bolinha",
-            "gender": "macho",
-            "age": "adulto",
-            "species": "gato",
-            "image": "./image/gatos/bolinha.jpg"
-        },
-        {
-            "id": 4,
+            "id": 2,
             "name": "bowie",
             "gender": "macho",
             "age": "adulto",
             "species": "gato",
-            "image": "./image/gatos/bowie.jpg"
+            "image": "./image/cat/bowie.jpg"
         },
         {
-            "id": 5,
+            "id": 3,
             "name": "cacau",
             "gender": "fêmea",
             "age": "adulto",
             "species": "gato",
-            "image": "./image/gatos/cacau.jpg"
+            "image": "./image/cat/cacau.jpg"
         },
         {
-            "id": 6,
+            "id": 4,
             "name": "caju",
             "gender": "macho",
             "age": "adulto",
             "species": "gato",
-            "image": "./image/gatos/caju.jpg"
+            "image": "./image/cat/caju.jpg"
         },
         {
-            "id": 7,
-            "name": "camudongo russo",
-            "gender": "macho",
-            "age": "adulto",
-            "species": "gato",
-            "image": "./image/gatos/camudongoRusso.jpg"
-        },
-        {
-            "id": 8,
-            "name": "carol",
-            "gender": "fêmea",
-            "age": "adulto",
-            "species": "gato",
-            "image": "./image/gatos/carol.jpg"
-        },
-        {
-            "id": 9,
+            "id": 5,
             "name": "chernobinha",
             "gender": "fêmea",
             "age": "adulto",
             "species": "gato",
-            "image": "./image/gatos/chernobinha.jpg"
+            "image": "./image/cat/chernobinha.jpg"
         },
         {
-            "id": 10,
-            "name": "chernobinho",
-            "gender": "macho",
-            "age": "adulto",
-            "species": "gato",
-            "image": "./image/gatos/chernobinho.jpg"
-        },
-        {
-            "id": 11,
-            "name": "davizinha",
-            "gender": "fêmea",
-            "age": "adulto",
-            "species": "gato",
-            "image": "./image/gatos/davizinha.jpg"
-        },
-        {
-            "id": 12,
+            "id": 6,
             "name": "dino",
             "gender": "macho",
             "age": "filhote",
             "species": "gato",
-            "image": "./image/gatos/dino.jpg"
+            "image": "./image/cat/dino.jpg"
         },
         {
-            "id": 13,
-            "name": "felicia",
-            "gender": "fêmea",
-            "age": "adulto",
-            "species": "gato",
-            "image": "./image/gatos/felicia.jpg"
-        },
-        {
-            "id": 14,
+            "id": 7,
             "name": "felicinha",
             "gender": "fêmea",
             "age": "filhote",
             "species": "gato",
-            "image": "./image/gatos/felicinha.jpg"
+            "image": "./image/cat/felicinha.jpg"
         },
         {
-            "id": 15,
+            "id": 8,
             "name": "floquinho",
             "gender": "macho",
             "age": "adulto",
             "species": "gato",
-            "image": "./image/gatos/floquinho.jpg"
+            "image": "./image/cat/floquinho.jpg"
         },
         {
-            "id": 16,
-            "name": "flora",
-            "gender": "fêmea",
-            "age": "adulto",
-            "species": "gato",
-            "image": "./image/gatos/flora.jpg"
-        },
-        {
-            "id": 17,
-            "name": "gigi",
-            "gender": "fêmea",
-            "age": "adulto",
-            "species": "gato",
-            "image": "./image/gatos/gigi.jpg"
-        },
-        {
-            "id": 18,
-            "name": "gordinho",
-            "gender": "macho",
-            "age": "adulto",
-            "species": "gato",
-            "image": "./image/gatos/gordinho.jpg"
-        },
-        {
-            "id": 19,
+            "id": 9,
             "name": "hermes",
             "gender": "macho",
             "age": "adulto",
             "species": "gato",
-            "image": "./image/gatos/hermes.jpg"
+            "image": "./image/cat/hermes.jpg"
         },
         {
-            "id": 20,
-            "name": "jose",
-            "gender": "macho",
-            "age": "adulto",
-            "species": "gato",
-            "image": "./image/gatos/jose.jpg"
-        },
-        {
-            "id": 21,
+            "id": 10,
             "name": "lelinho",
             "gender": "macho",
             "age": "adulto",
             "species": "gato",
-            "image": "./image/gatos/lelinho.jpg"
+            "image": "./image/cat/lelinho.jpg"
         },
         {
-            "id": 22,
-            "name": "leo",
-            "gender": "macho",
-            "age": "adulto",
-            "species": "gato",
-            "image": "./image/gatos/leo.jpg"
-        },
-        {
-            "id": 23,
-            "name": "lili",
-            "gender": "fêmea",
-            "age": "adulto",
-            "species": "gato",
-            "image": "./image/gatos/lili.jpg"
-        },
-        {
-            "id": 24,
+            "id": 11,
             "name": "loki",
             "gender": "macho",
             "age": "adulto",
             "species": "gato",
-            "image": "./image/gatos/loki.jpg"
+            "image": "./image/cat/loki.jpg"
+        },
+        {
+            "id": 12,
+            "name": "marshmallow",
+            "gender": "macho",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/cat/marshmallow.jpg"
+        },
+        {
+            "id": 13,
+            "name": "maya",
+            "gender": "fêmea",
+            "age": "filhote",
+            "species": "gato",
+            "image": "./image/cat/maya.jpg"
+        },
+        {
+            "id": 14,
+            "name": "paçoca",
+            "gender": "macho",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/cat/pacoca.jpg"
+        },
+        {
+            "id": 15,
+            "name": "pudim",
+            "gender": "macho",
+            "age": "adulto",
+            "species": "gato",
+            "image": "./image/cat/pudim.jpg"
+        },
+        {
+            "id": 16,
+            "name": "bicudo",
+            "gender": "macho",
+            "age": "filhote",
+            "species": "cachorro",
+            "image": "./image/dog/bicudo.jpg"
+        },
+        {
+            "id": 17,
+            "name": "bilu",
+            "gender": "macho",
+            "age": "filhote",
+            "species": "cachorro",
+            "image": "./image/dog/bilu.jpg"
+        },
+        {
+            "id": 18,
+            "name": "chocolate",
+            "gender": "macho",
+            "age": "filhote",
+            "species": "cachorro",
+            "image": "./image/dog/chocolate.jpg"
+        },
+        {
+            "id": 19,
+            "name": "duque",
+            "gender": "macho",
+            "age": "filhote",
+            "species": "cachorro",
+            "image": "./image/dog/duque.jpg"
+        },
+        {
+            "id": 20,
+            "name": "lara",
+            "gender": "fêmea",
+            "age": "filhote",
+            "species": "cachorro",
+            "image": "./image/dog/lara.jpg"
+        },
+        {
+            "id": 21,
+            "name": "luna",
+            "gender": "fêmea",
+            "age": "adulto",
+            "species": "cachorro",
+            "image": "./image/dog/luna.jpg"
+        },
+        {
+            "id": 22,
+            "name": "mel",
+            "gender": "fêmea",
+            "age": "adulto",
+            "species": "cachorro",
+            "image": "./image/dog/mel.jpg"
+        },
+        {
+            "id": 23,
+            "name": "melissa",
+            "gender": "fêmea",
+            "age": "filhote",
+            "species": "cachorro",
+            "image": "./image/dog/melissa.jpg"
+        },
+        {
+            "id": 24,
+            "name": "mia",
+            "gender": "fêmea",
+            "age": "adulto",
+            "species": "cachorro",
+            "image": "./image/dog/mia.jpg"
+        },
+        {
+            "id": 25,
+            "name": "pipoca",
+            "gender": "macho",
+            "age": "adulto",
+            "species": "cachorro",
+            "image": "./image/dog/pipoca.jpg"
+        },
+        {
+            "id": 26,
+            "name": "sol",
+            "gender": "fêmea",
+            "age": "filhote",
+            "species": "cachorro",
+            "image": "./image/dog/sol.jpg"
+        },
+        {
+            "id": 27,
+            "name": "theo",
+            "gender": "macho",
+            "age": "filhote",
+            "species": "cachorro",
+            "image": "./image/dog/theo.jpg"
+        },
+        {
+            "id": 28,
+            "name": "tody",
+            "gender": "macho",
+            "age": "filhote",
+            "species": "cachorro",
+            "image": "./image/dog/tody.jpg"
+        },
+        {
+            "id": 29,
+            "name": "toto",
+            "gender": "macho",
+            "age": "filhote",
+            "species": "cachorro",
+            "image": "./image/dog/toto.jpg"
+        },
+        {
+            "id": 30,
+            "name": "rex",
+            "gender": "macho",
+            "age": "adulto",
+            "species": "cachorro",
+            "image": "./image/dog/rex.jpg"
         }
     ]
 }
