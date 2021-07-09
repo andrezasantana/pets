@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "amora",
-            "gender": "fêmea",
+            "sex": "fêmea",
             "age": "adulto",
             "species": "gato",
             "image": "./image/cat/amora.jpg"
@@ -11,7 +11,7 @@
         {
             "id": 2,
             "name": "bowie",
-            "gender": "macho",
+            "sex": "macho",
             "age": "adulto",
             "species": "gato",
             "image": "./image/cat/bowie.jpg"
@@ -19,7 +19,7 @@
         {
             "id": 3,
             "name": "cacau",
-            "gender": "fêmea",
+            "sex": "fêmea",
             "age": "adulto",
             "species": "gato",
             "image": "./image/cat/cacau.jpg"
@@ -27,7 +27,7 @@
         {
             "id": 4,
             "name": "caju",
-            "gender": "macho",
+            "sex": "macho",
             "age": "adulto",
             "species": "gato",
             "image": "./image/cat/caju.jpg"
@@ -35,7 +35,7 @@
         {
             "id": 5,
             "name": "chernobinha",
-            "gender": "fêmea",
+            "sex": "fêmea",
             "age": "adulto",
             "species": "gato",
             "image": "./image/cat/chernobinha.jpg"
@@ -43,7 +43,7 @@
         {
             "id": 6,
             "name": "dino",
-            "gender": "macho",
+            "sex": "macho",
             "age": "filhote",
             "species": "gato",
             "image": "./image/cat/dino.jpg"
@@ -51,7 +51,7 @@
         {
             "id": 7,
             "name": "felicinha",
-            "gender": "fêmea",
+            "sex": "fêmea",
             "age": "filhote",
             "species": "gato",
             "image": "./image/cat/felicinha.jpg"
@@ -59,7 +59,7 @@
         {
             "id": 8,
             "name": "floquinho",
-            "gender": "macho",
+            "sex": "macho",
             "age": "adulto",
             "species": "gato",
             "image": "./image/cat/floquinho.jpg"
@@ -67,7 +67,7 @@
         {
             "id": 9,
             "name": "hermes",
-            "gender": "macho",
+            "sex": "macho",
             "age": "adulto",
             "species": "gato",
             "image": "./image/cat/hermes.jpg"
@@ -75,7 +75,7 @@
         {
             "id": 10,
             "name": "lelinho",
-            "gender": "macho",
+            "sex": "macho",
             "age": "adulto",
             "species": "gato",
             "image": "./image/cat/lelinho.jpg"
@@ -83,7 +83,7 @@
         {
             "id": 11,
             "name": "loki",
-            "gender": "macho",
+            "sex": "macho",
             "age": "adulto",
             "species": "gato",
             "image": "./image/cat/loki.jpg"
@@ -91,7 +91,7 @@
         {
             "id": 12,
             "name": "marshmallow",
-            "gender": "macho",
+            "sex": "macho",
             "age": "adulto",
             "species": "gato",
             "image": "./image/cat/marshmallow.jpg"
@@ -99,7 +99,7 @@
         {
             "id": 13,
             "name": "maya",
-            "gender": "fêmea",
+            "sex": "fêmea",
             "age": "filhote",
             "species": "gato",
             "image": "./image/cat/maya.jpg"
@@ -107,7 +107,7 @@
         {
             "id": 14,
             "name": "paçoca",
-            "gender": "macho",
+            "sex": "macho",
             "age": "adulto",
             "species": "gato",
             "image": "./image/cat/pacoca.jpg"
@@ -115,7 +115,7 @@
         {
             "id": 15,
             "name": "pudim",
-            "gender": "macho",
+            "sex": "macho",
             "age": "adulto",
             "species": "gato",
             "image": "./image/cat/pudim.jpg"
@@ -123,7 +123,7 @@
         {
             "id": 16,
             "name": "bicudo",
-            "gender": "macho",
+            "sex": "macho",
             "age": "filhote",
             "species": "cachorro",
             "image": "./image/dog/bicudo.jpg"
@@ -131,7 +131,7 @@
         {
             "id": 17,
             "name": "bilu",
-            "gender": "macho",
+            "sex": "macho",
             "age": "filhote",
             "species": "cachorro",
             "image": "./image/dog/bilu.jpg"
@@ -139,7 +139,7 @@
         {
             "id": 18,
             "name": "chocolate",
-            "gender": "macho",
+            "sex": "macho",
             "age": "filhote",
             "species": "cachorro",
             "image": "./image/dog/chocolate.jpg"
@@ -147,7 +147,7 @@
         {
             "id": 19,
             "name": "duque",
-            "gender": "macho",
+            "sex": "macho",
             "age": "filhote",
             "species": "cachorro",
             "image": "./image/dog/duque.jpg"
@@ -155,7 +155,7 @@
         {
             "id": 20,
             "name": "lara",
-            "gender": "fêmea",
+            "sex": "fêmea",
             "age": "filhote",
             "species": "cachorro",
             "image": "./image/dog/lara.jpg"
@@ -163,7 +163,7 @@
         {
             "id": 21,
             "name": "luna",
-            "gender": "fêmea",
+            "sex": "fêmea",
             "age": "adulto",
             "species": "cachorro",
             "image": "./image/dog/luna.jpg"
@@ -171,7 +171,7 @@
         {
             "id": 22,
             "name": "mel",
-            "gender": "fêmea",
+            "sex": "fêmea",
             "age": "adulto",
             "species": "cachorro",
             "image": "./image/dog/mel.jpg"
@@ -179,7 +179,7 @@
         {
             "id": 23,
             "name": "melissa",
-            "gender": "fêmea",
+            "sex": "fêmea",
             "age": "filhote",
             "species": "cachorro",
             "image": "./image/dog/melissa.jpg"
@@ -187,7 +187,7 @@
         {
             "id": 24,
             "name": "mia",
-            "gender": "fêmea",
+            "sex": "fêmea",
             "age": "adulto",
             "species": "cachorro",
             "image": "./image/dog/mia.jpg"
@@ -195,7 +195,7 @@
         {
             "id": 25,
             "name": "pipoca",
-            "gender": "macho",
+            "sex": "macho",
             "age": "adulto",
             "species": "cachorro",
             "image": "./image/dog/pipoca.jpg"
@@ -203,7 +203,7 @@
         {
             "id": 26,
             "name": "sol",
-            "gender": "fêmea",
+            "sex": "fêmea",
             "age": "filhote",
             "species": "cachorro",
             "image": "./image/dog/sol.jpg"
@@ -211,7 +211,7 @@
         {
             "id": 27,
             "name": "theo",
-            "gender": "macho",
+            "sex": "macho",
             "age": "filhote",
             "species": "cachorro",
             "image": "./image/dog/theo.jpg"
@@ -219,7 +219,7 @@
         {
             "id": 28,
             "name": "tody",
-            "gender": "macho",
+            "sex": "macho",
             "age": "filhote",
             "species": "cachorro",
             "image": "./image/dog/tody.jpg"
@@ -227,7 +227,7 @@
         {
             "id": 29,
             "name": "toto",
-            "gender": "macho",
+            "sex": "macho",
             "age": "filhote",
             "species": "cachorro",
             "image": "./image/dog/toto.jpg"
@@ -235,7 +235,7 @@
         {
             "id": 30,
             "name": "rex",
-            "gender": "macho",
+            "sex": "macho",
             "age": "adulto",
             "species": "cachorro",
             "image": "./image/dog/rex.jpg"
